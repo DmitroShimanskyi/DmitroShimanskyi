@@ -155,6 +155,10 @@ Stambuł
   <th colspan='2'>
 Miasta
   </th>
+
+   <th rowspan='2'>
+Szprot
+  </th>
   
 </tr>
 
