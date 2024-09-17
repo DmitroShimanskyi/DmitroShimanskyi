@@ -17,7 +17,7 @@ Miasto
 </th>
 
 <th='2'>
-Mieszkancy 2019-2024
+Miesz. 2019-2024
 </th>
 
 
