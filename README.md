@@ -1,5 +1,13 @@
 <!DOCTYPE html!>
 
+<html>
+
+<head>
+  
+</head>
+
+<body>
+
 <tabel>
   
 <tr>
@@ -72,3 +80,7 @@
 
   
 </tabel>
+
+</body>
+
+</html>
