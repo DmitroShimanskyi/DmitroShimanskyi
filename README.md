@@ -145,6 +145,20 @@ Stambuł
 
 </table>
 
+
+
+
+<table border='3'>
+
+<tr>
+  <th rowspan='2'>
+Szprot
+  </th>
+  
+</tr>
+
+</tabel>
+
 </body>
 
 
