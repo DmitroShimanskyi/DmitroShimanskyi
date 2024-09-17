@@ -7,7 +7,7 @@
 
 <body>
 
-<table border='3'>
+<table border='1'>
 
 
 <tr>
