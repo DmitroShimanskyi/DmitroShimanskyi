@@ -81,7 +81,7 @@ Stambuł
 
 
 
-<hr>
+<tr></tr>
 
 
 
