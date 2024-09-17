@@ -92,7 +92,7 @@ Stambuł
 <tr>
 
 <th>
-Miasto
+Berlin
 </th>
 
 <th colspan='4'>
