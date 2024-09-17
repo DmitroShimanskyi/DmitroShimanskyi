@@ -17,18 +17,7 @@ Miasto
 </th>
 
 <th>
-Mieszkańcy
-</th>
-
-<th>
-Rok powstania
-</th>
-
-
-
-
-<th>
-Ocena
+Mieszkancy 2019-2024
 </th>
 
 
@@ -45,11 +34,7 @@ Lwów
 </td>
 
 <td>
-1250
-</td>
-
-<td>
-8/10
+753 923
 </td>
 
 </tr>
@@ -66,12 +51,9 @@ Londyn
 </td>
 
 <td>
-43
+8,993m.
 </td>
 
-<td>
-10/10
-</td>
 
 </tr>
 
@@ -88,12 +70,9 @@ Stambuł
 </td>
 
 <td>
-660 r. p.n.e.
+15.7m.
 </td>
 
-<td>
-6/10
-</td>
 
 </tr>
 
@@ -110,12 +89,10 @@ Kraków
 </td>
 
 <td>
-1257
+784 673
 </td>
 
-<td>
-9/10
-</td>
+
 
 </tr>
 
@@ -131,11 +108,11 @@ Berlin
 </td>
 
 <td>
-1237
+3,645m.
 </td>
 
 <td>
-7/10
+3,7m.
 </td>
 
 </tr>
