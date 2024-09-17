@@ -95,8 +95,8 @@ Stambuł
 Miasto
 </th>
 
-<th rowspan='2'>
-Mieszkancy 2019-2024
+<th rowspan='4'>
+Popularny miasta
 </th>
 
 
@@ -105,16 +105,9 @@ Mieszkancy 2019-2024
 <tr>
 
 <td>
-Lwów
+Paris
 </td>
 
-<td>
-721 301
-</td>
-
-<td>
-753 923
-</td>
 
 </tr>
 
@@ -125,13 +118,7 @@ Lwów
 Londyn
 </td>
 
-<td>
-8,982m.
-</td>
 
-<td>
-8,993m.
-</td>
 
 
 </tr>
@@ -144,13 +131,6 @@ Londyn
 Stambuł 
 </td>
 
-<td>
-15,66m.
-</td>
-
-<td>
-15.7m.
-</td>
 
 
 </tr>
