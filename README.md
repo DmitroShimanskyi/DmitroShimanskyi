@@ -105,6 +105,11 @@ Mieszkancy 2019-2024
 
 <tr>
 
+  
+</tr>
+
+<tr>
+
 <td>
 Lwów
 </td>
