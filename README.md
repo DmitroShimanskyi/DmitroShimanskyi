@@ -92,7 +92,7 @@ Stambuł
 
 <tr>
 
-<th rowspan='1'>
+<th rowspan='2'>
 Miasto
 </th>
 
@@ -163,7 +163,7 @@ Stambuł
 
 <tr>
 
-<th rowspan='1'>
+<th rowspan='2'>
 Miasto
 </th>
 
