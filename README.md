@@ -156,7 +156,7 @@ Stambuł
 Miasta
   </th>
 
-   <th rowspan='2'>
+   <th rowspan='1'>
 Szprot
   </th>
   
@@ -172,9 +172,25 @@ Szprot
   <td>
     Londyn
   </td>
+
+<td rowspan='2'>
+   4
+  </td>
   
 </tr>
 
+
+<tr>
+  <td>
+    Berlin
+  </td>
+
+   <td>
+   Lutsk
+   </td>
+
+  
+</tr>
 </tabel>
 
 </body>
