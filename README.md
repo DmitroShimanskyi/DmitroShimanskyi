@@ -88,7 +88,6 @@ Stambuł
 
 
 
-<body>
 
 <tr>
 
@@ -168,7 +167,7 @@ Stambuł
 
 </body>
 
-</body>
+
 
 
 
