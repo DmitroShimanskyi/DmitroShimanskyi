@@ -16,7 +16,7 @@
 Miasto
 </th>
 
-<th,row='2'>
+<th colspan='2'>
 Mieszkancy 2019-2024
 </th>
 
