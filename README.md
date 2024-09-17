@@ -76,7 +76,7 @@ Stambuł
 
 </tr>
 
-</tabel>
+</tabele>
 
 
 
@@ -87,7 +87,7 @@ Stambuł
 
 
 
-<tabel>
+<table border='3'>
 
 <tr>
 
