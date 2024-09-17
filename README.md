@@ -162,6 +162,19 @@ Szprot
   
 </tr>
 
+<tr>
+
+  <td>
+    Paris
+  </td>
+
+
+  <td>
+    Londyn
+  </td>
+  
+</tr>
+
 </tabel>
 
 </body>
