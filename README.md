@@ -95,7 +95,7 @@ Stambuł
 Miasto
 </th>
 
-<th rowspan='4'>
+<th colspan='4'>
 Popularny miasta
 </th>
 
