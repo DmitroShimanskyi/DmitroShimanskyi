@@ -76,7 +76,7 @@ Stambuł
 
 </tr>
 
-</tabele>
+</table>
 
 
 
@@ -191,7 +191,7 @@ Szprot
 
   
 </tr>
-</tabel>
+</table>
 
 </body>
 
