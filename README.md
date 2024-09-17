@@ -16,7 +16,7 @@
 Miasto
 </th>
 
-<th>
+<th='2'>
 Mieszkancy 2019-2024
 </th>
 
@@ -103,9 +103,7 @@ Kraków
 Berlin
 </td>
 
-<td>
-3,645m.
-</td>
+
 
 <td>
 3,645m.
