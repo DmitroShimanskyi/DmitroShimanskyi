@@ -87,16 +87,17 @@ Stambuł
 
 
 
-<table border='3'>
+<table border='1'>
+
 
 <tr>
 
 <th>
-Berlin
+Miasto
 </th>
 
-<th colspan='4'>
-Popularny miasta
+<th colspan='2'>
+Mieszkancy 2019-2024
 </th>
 
 
@@ -105,9 +106,16 @@ Popularny miasta
 <tr>
 
 <td>
-Paris
+Lwów
 </td>
 
+<td>
+721 301
+</td>
+
+<td>
+753 923
+</td>
 
 </tr>
 
@@ -118,7 +126,13 @@ Paris
 Londyn
 </td>
 
+<td>
+8,982m.
+</td>
 
+<td>
+8,993m.
+</td>
 
 
 </tr>
@@ -131,66 +145,88 @@ Londyn
 Stambuł 
 </td>
 
+<td>
+15,66m.
+</td>
+
+<td>
+15.7m.
+</td>
 
 
 </tr>
-
-
-
-
-
-
-
-
 
 </table>
 
+<table border='1'>
 
-
-
-<table border='3'>
-  
 
 <tr>
-  <th colspan='2'>
-Miasta
-  </th>
 
-   <th rowspan='1'>
-Szprot
-  </th>
-  
+<th>
+Miasto
+</th>
+
+<th colspan='2'>
+Mieszkancy 2019-2024
+</th>
+
+
 </tr>
 
 <tr>
 
-  <td>
-    Paris
-  </td>
+<td>
+Lwów
+</td>
 
+<td>
+721 301
+</td>
 
-  <td>
-    Londyn
-  </td>
+<td>
+753 923
+</td>
 
-<td rowspan='2'>
-   4
-  </td>
-  
 </tr>
 
 
 <tr>
-  <td>
-    Berlin
-  </td>
 
-   <td>
-   Lutsk
-   </td>
+<td>
+Londyn
+</td>
 
-  
+<td>
+8,982m.
+</td>
+
+<td>
+8,993m.
+</td>
+
+
 </tr>
+
+
+
+<tr>
+
+<td>
+Stambuł 
+</td>
+
+<td>
+15,66m.
+</td>
+
+<td>
+15.7m.
+</td>
+
+
+</tr>
+
 </table>
 
 </body>
