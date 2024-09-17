@@ -78,21 +78,42 @@ Stambuł
 
 
 
+
+
+
+
+
+
+
+
+
+
+<tr>
+
+<th>
+Miasto
+</th>
+
+<th rowspan='2'>
+Mieszkancy 2019-2024
+</th>
+
+
+</tr>
+
 <tr>
 
 <td>
-Kraków 
+Lwów
 </td>
 
 <td>
-766 683
+721 301
 </td>
 
 <td>
-784 673
+753 923
 </td>
-
-
 
 </tr>
 
@@ -100,20 +121,45 @@ Kraków
 <tr>
 
 <td>
-Berlin
-</td>
-
-
-
-<td>
-3,645m.
+Londyn
 </td>
 
 <td>
-3,7m.
+8,982m.
 </td>
+
+<td>
+8,993m.
+</td>
+
 
 </tr>
+
+
+
+<tr>
+
+<td>
+Stambuł 
+</td>
+
+<td>
+15,66m.
+</td>
+
+<td>
+15.7m.
+</td>
+
+
+</tr>
+
+
+
+
+
+
+
 
 
 </table>
