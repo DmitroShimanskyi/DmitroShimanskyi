@@ -2,84 +2,149 @@
 <html>
 
 <head>
-  
+
 </head>
 
 <body>
 
-<tabel>
-  
+<table border='3'>
+
+
 <tr>
 
-<th>Miasto</th>
+<th>
+Miasto
+</th>
 
-<th>mieszkancy 2019-2024</th>
+<th>
+Mieszkańcy
+</th>
+
+<th>
+Rok powstania
+</th>
+
+
+
+
+<th>
+Ocena
+</th>
+
 
 </tr>
 
 <tr>
 
-<th>Lwow</th>
+<td>
+Lwów
+</td>
 
-<th>718 tys</th>
+<td>
+721 301
+</td>
 
-<th>759 tys</th>
+<td>
+1250
+</td>
 
-  </tr>
+<td>
+8/10
+</td>
 
+</tr>
 
-  
 
 <tr>
 
-<th>Zwierzyniec</th>
+<td>
+Londyn
+</td>
 
-<th>3 235</th>
+<td>
+8,982m.
+</td>
 
-<th>3 931</th>
+<td>
+43
+</td>
 
-  </tr>
+<td>
+10/10
+</td>
 
-
-
-
-
-
-
-
-
-  <tr>
-
-<th>Kijów</th>
-
-<th>2 893 360</th>
-
-<th>2 967 360</th>
-
-  </tr>
-
-
-
-
-
+</tr>
 
 
 
 <tr>
 
-<th>Łuck</th>
+<td>
+Stambuł 
+</td>
 
-<th>209 tys</th>
+<td>
+15,66m.
+</td>
 
-<th>215 tys</th>
+<td>
+660 r. p.n.e.
+</td>
 
-  </tr>
+<td>
+6/10
+</td>
+
+</tr>
 
 
 
-  
-</tabel>
+<tr>
+
+<td>
+Kraków 
+</td>
+
+<td>
+766 683
+</td>
+
+<td>
+1257
+</td>
+
+<td>
+9/10
+</td>
+
+</tr>
+
+
+<tr>
+
+<td>
+Berlin
+</td>
+
+<td>
+3,645m.
+</td>
+
+<td>
+1237
+</td>
+
+<td>
+7/10
+</td>
+
+</tr>
+
+
+</table>
 
 </body>
+
+
 
 </html>
