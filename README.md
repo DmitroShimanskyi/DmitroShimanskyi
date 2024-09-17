@@ -7,7 +7,7 @@
 
 <body>
 
-<table border='1'>
+<table border='3'>
 
 
 <tr>
@@ -16,8 +16,19 @@
 Miasto
 </th>
 
-<th colspan='2'>
-Mieszkancy 2019-2024
+<th>
+Mieszkańcy
+</th>
+
+<th>
+Rok powstania
+</th>
+
+
+
+
+<th>
+Ocena
 </th>
 
 
@@ -34,7 +45,11 @@ Lwów
 </td>
 
 <td>
-753 923
+1250
+</td>
+
+<td>
+8/10
 </td>
 
 </tr>
@@ -51,9 +66,12 @@ Londyn
 </td>
 
 <td>
-8,993m.
+43
 </td>
 
+<td>
+10/10
+</td>
 
 </tr>
 
@@ -70,70 +88,12 @@ Stambuł
 </td>
 
 <td>
-15.7m.
-</td>
-
-
-</tr>
-
-</table>
-
-
-
-
-
-
-
-
-
-
-<table border='1'>
-
-
-<tr>
-
-<th>
-Miasto
-</th>
-
-<th colspan='2'>
-Mieszkancy 2019-2024
-</th>
-
-
-</tr>
-
-<tr>
-
-<td>
-Lwów
+660 r. p.n.e.
 </td>
 
 <td>
-721 301
+6/10
 </td>
-
-<td>
-753 923
-</td>
-
-</tr>
-
-
-<tr>
-
-<td>
-Londyn
-</td>
-
-<td>
-8,982m.
-</td>
-
-<td>
-8,993m.
-</td>
-
 
 </tr>
 
@@ -142,50 +102,19 @@ Londyn
 <tr>
 
 <td>
-Stambuł 
+Kraków 
 </td>
 
 <td>
-15,66m.
+766 683
 </td>
 
 <td>
-15.7m.
-</td>
-
-
-</tr>
-
-</table>
-
-<table border='1'>
-
-
-<tr>
-
-<th>
-Miasto
-</th>
-
-<th colspan='2'>
-Mieszkancy 2019-2024
-</th>
-
-
-</tr>
-
-<tr>
-
-<td>
-Lwów
+1257
 </td>
 
 <td>
-721 301
-</td>
-
-<td>
-753 923
+9/10
 </td>
 
 </tr>
@@ -194,44 +123,27 @@ Lwów
 <tr>
 
 <td>
-Londyn
+Berlin
 </td>
 
 <td>
-8,982m.
+3,645m.
 </td>
 
 <td>
-8,993m.
+1237
 </td>
 
+<td>
+7/10
+</td>
 
 </tr>
 
-
-
-<tr>
-
-<td>
-Stambuł 
-</td>
-
-<td>
-15,66m.
-</td>
-
-<td>
-15.7m.
-</td>
-
-
-</tr>
 
 </table>
 
 </body>
-
-
 
 
 
