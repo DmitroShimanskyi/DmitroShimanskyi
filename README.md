@@ -149,7 +149,7 @@ Stambuł
 
 
 <table border='3'>
-
+Miasta
 <tr>
   <th rowspan='2'>
 Szprot
