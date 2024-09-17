@@ -92,11 +92,11 @@ Stambuł
 
 <tr>
 
-<th>
+<th rowspan='1'>
 Miasto
 </th>
 
-<th colspan='2'>
+<th>
 Mieszkancy 2019-2024
 </th>
 
@@ -163,7 +163,7 @@ Stambuł
 
 <tr>
 
-<th>
+<th rowspan='1'>
 Miasto
 </th>
 
